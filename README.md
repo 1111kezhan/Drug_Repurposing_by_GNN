@@ -1,5 +1,6 @@
 # Drug_Repurposing_by_GNN
-基於圖神經網路之老藥新用預測
+## 基於圖神經網路之老藥新用預測
+
 <br>
 此Repo僅為展示code成果用
 <br>
